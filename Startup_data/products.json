@@ -1,0 +1,346 @@
+[{
+  "_id": {
+    "$oid": "64db50551ebc0c512c4b4f2f"
+  },
+  "title": "iPhone 12 mini",
+  "description": [
+    "iPhone 12 Mini is compact for easy handling.",
+    "Its 5.4-inch OLED display offers vivid visuals.",
+    "A14 Bionic chip powers strong performance.",
+    "Dual 12 MP cameras enable quality shots.",
+    "5G support ensures faster connectivity."
+  ],
+  "image": "1692094549499-v-a-tao-Ws3QKC47Fio-unsplash.jpg",
+  "price": 58490,
+  "category": "electronics",
+  "subcategory": "mobiles",
+  "seller": {
+    "$oid": "64da38e00059d2d4e17a476d"
+  },
+  "brand": "mobiles",
+  "product_quantity": 34,
+  "review": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64db520d8600a4368bdcb714"
+  },
+  "title": "Sony AY43  HeadPhones",
+  "description": [
+    "Sony headphones feature advanced noise cancellation.",
+    "They support high-resolution audio playback.",
+    "Wireless Bluetooth connectivity is common.",
+    "Touch controls for easy management.",
+    "Extended battery life for prolonged use."
+  ],
+  "image": "1692094989052-luke-peterson-lUMj2Zv5HUE-unsplash.jpg",
+  "price": 16000,
+  "category": "electronics",
+  "subcategory": "headphones",
+  "seller": {
+    "$oid": "64da38e00059d2d4e17a476d"
+  },
+  "brand": "headphones",
+  "product_quantity": 45,
+  "review": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64db5469cc7ca87b019a781b"
+  },
+  "title": "onePlus ProTv",
+  "description": [
+    "Fluid AMOLED display for vibrant visuals.",
+    "Dolby Atmos sound system for immersive audio.",
+    "OxygenPlay for content discovery and streaming.",
+    "Integrated Google Assistant for voice control.",
+    "Slim design with premium build quality."
+  ],
+  "image": "1692095593212-ajeet-mestry-UBhpOIHnazM-unsplash.jpg",
+  "price": 35000,
+  "category": "electronics",
+  "subcategory": "tv",
+  "seller": {
+    "$oid": "64da38e00059d2d4e17a476d"
+  },
+  "brand": "tv",
+  "product_quantity": 46,
+  "review": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64db54c4cc7ca87b019a781d"
+  },
+  "title": "canon CS4",
+  "description": [
+    "High-resolution image sensors for detailed photos.",
+    "Advanced autofocus technology for quick and accurate focusing.",
+    "Wide range of interchangeable lenses for creative versatility.",
+    "User-friendly interface and controls for intuitive operation.",
+    "Built-in image stabilization for steady shots, even in low light."
+  ],
+  "image": "1692095684274-yoann-siloine-_T4w3JDm6ug-unsplash.jpg",
+  "price": 4600,
+  "category": "electronics",
+  "subcategory": "cameras",
+  "seller": {
+    "$oid": "64da38e00059d2d4e17a476d"
+  },
+  "brand": "cameras",
+  "product_quantity": 95,
+  "review": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64dcb4b687c09255e7d33c7f"
+  },
+  "title": "MacBook 13 pro",
+  "description": [
+    "The MacBook Pro is powered by the M1 chip.",
+    "It boasts a Retina display with True Tone technology.",
+    "Equipped with Thunderbolt 4 ports for versatile connectivity.",
+    "It features MagSafe charging for effortless power connection.",
+    "Designed for pro-grade performance with exceptional power and graphics capabilities."
+  ],
+  "image": "1692185782023-kari-shea-1SAnrIxw5OY-unsplash.jpg",
+  "price": 58490,
+  "category": "electronics",
+  "subcategory": "laptop",
+  "seller": {
+    "$oid": "64da38e00059d2d4e17a476d"
+  },
+  "brand": "laptop",
+  "product_quantity": 23,
+  "review": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64dcd698e4b388c8aec0a029"
+  },
+  "title": "Adidas Originals Trefoil Tee",
+  "description": [
+    "Iconic Trefoil Logo: The shirt features Adidas's iconic Trefoil logo, symbolizing authenticity.",
+    "Comfortable Fit: Designed for comfort, it offers a relaxed fit suitable for daily wear.",
+    "Versatile Styles: Available in various colors and designs to match different preferences.",
+    "High-Quality Materials: Crafted from premium materials, ensuring durability.",
+    "Streetwear Aesthetic: Blends sporty and stylish, aligning with Adidas's urban aesthetic."
+  ],
+  "image": "1692194456557-haryo-setyadi-acn5ERAeSb4-unsplash (1).jpg",
+  "price": 465,
+  "category": "fashion",
+  "subcategory": "shirts",
+  "seller": {
+    "$oid": "64da38e00059d2d4e17a476d"
+  },
+  "brand": "shirts",
+  "product_quantity": 43,
+  "review": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64dcd81de4b388c8aec0b072"
+  },
+  "title": "Nike Air Force 1",
+  "description": [
+    "Timeless Design: A classic silhouette that has maintained its popularity over decades.",
+    "Air Cushioning: Equipped with Nike Air technology for comfortable cushioning.",
+    "Durable Construction: Built to withstand daily wear and tear.",
+    "Versatile Styling: Easily pairs with a variety of outfits for different occasions.",
+    "Iconic Swoosh: Features Nike's signature logo for instant brand recognition."
+  ],
+  "image": "1692194845456-shoe.jpg",
+  "price": 6561,
+  "category": "fashion",
+  "subcategory": "shoes",
+  "seller": {
+    "$oid": "64da38e00059d2d4e17a476d"
+  },
+  "brand": "shoes",
+  "product_quantity": 23,
+  "review": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64dcee6edcb69a046dd22be7"
+  },
+  "title": "H&M Pants ",
+  "description": [
+    "Stylish H&M pants.",
+    "Diverse color options.",
+    "Comfortable fit.",
+    "Affordable prices.",
+    "Trendy designs."
+  ],
+  "image": "1692200558276-hmgoepprod.jpeg",
+  "price": 2400,
+  "category": "fashion",
+  "subcategory": "pants",
+  "seller": {
+    "$oid": "64da38e00059d2d4e17a476d"
+  },
+  "brand": "pants",
+  "product_quantity": 50,
+  "review": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64dcef71dcb69a046dd2befe"
+  },
+  "title": "Adidas Hat C4K",
+  "description": [
+    "Wide range of stylish hats.",
+    "Available in multiple sizes for perfect fit.",
+    "Crafted from high-quality materials.",
+    "Elevates and complements various outfits.",
+    "Durable design for long-lasting wear."
+  ],
+  "image": "1692200817200-mediamodifier-t8HiP3e5abg-unsplash (1).jpg",
+  "price": 500,
+  "category": "fashion",
+  "subcategory": "hats",
+  "seller": {
+    "$oid": "64da38e00059d2d4e17a476d"
+  },
+  "brand": "hats",
+  "product_quantity": 19,
+  "review": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64dcf0b5dcb69a046dd36b45"
+  },
+  "title": "ChicElegance Couture",
+  "description": [
+    "Exclusive and unique designs.",
+    "Premium quality fabrics and craftsmanship.",
+    "Versatile dress styles for various occasions.",
+    "Customization options for personalized fashion.",
+    "Trendsetting and fashion-forward collections."
+  ],
+  "image": "1692201141393-mariabeatrice-alonzi-VyI0GBHSsJ8-unsplash (1).jpg",
+  "price": 460,
+  "category": "fashion",
+  "subcategory": "dresses",
+  "seller": {
+    "$oid": "64da38e00059d2d4e17a476d"
+  },
+  "brand": "dresses",
+  "product_quantity": 46,
+  "review": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64dcf4c9dcb69a046dd5e5b6"
+  },
+  "title": "HotPoint Washer Pro",
+  "description": [
+    "Multiple wash cycles.",
+    "Efficient water usage.",
+    "Quick wash option.",
+    "User-friendly controls.",
+    "Capacity for large loads."
+  ],
+  "image": "1692202185637-111629580.jpg",
+  "price": 32000,
+  "category": "appliances",
+  "subcategory": "washing machine",
+  "seller": {
+    "$oid": "64dcf1dcdcb69a046dd422b4"
+  },
+  "brand": "washing machine",
+  "product_quantity": 45,
+  "review": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64dd8814f3cee27bc24c0f24"
+  },
+  "title": "Hair HyperCool",
+  "description": [
+    "Refrigerators maintain low temperatures to preserve and extend the freshness of food.",
+    "They offer adjustable settings for optimal storage.",
+    "Modern designs save energy efficiently.",
+    "They provide diverse storage spaces.",
+    "Refrigeration enhances food safety by inhibiting bacterial growth."
+  ],
+  "image": "1692239892383-purepng.com-refrigeratorrefrigeratorfridgeiceboxrefrigeratoryfreezer-1701528368818jyb9k.png",
+  "price": 32000,
+  "category": "appliances",
+  "subcategory": "refrigerator",
+  "seller": {
+    "$oid": "64dcf1dcdcb69a046dd422b4"
+  },
+  "brand": "refrigerator",
+  "product_quantity": 46,
+  "review": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64dd8ac8f3cee27bc24c12dc"
+  },
+  "title": "LG 20 L Solo Microwave ",
+  "description": [
+    "Rapid heating capabilities",
+    "Adjustable power levels for cooking flexibility",
+    "Efficient defrosting functions",
+    "Convenient presets for various foods",
+    "Compact sizes suitable for different spaces"
+  ],
+  "image": "1692240584154-rentpelelo+Top-brands-5-star-energy-efficient-microwave-on-rent+Top-brands-5-star-energy-efficent-microvave-on-rent-for-Rs.-500-per-month---RentPeLelo-2.jpg",
+  "price": 12000,
+  "category": "appliances",
+  "subcategory": "microwave",
+  "seller": {
+    "$oid": "64dcf1dcdcb69a046dd422b4"
+  },
+  "brand": "microwave",
+  "product_quantity": 65,
+  "review": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64dd8d27f3cee27bc24c16bc"
+  },
+  "title": "Aigostor GT",
+  "description": [
+    "A powerful motor for effortless blending of tough ingredients.",
+    "Perfect for a wide range of recipes.",
+    "Enjoy precision control with multiple speeds and a pulse function.",
+    "Cleanup is a breeze with its removable, dishwasher-safe parts.",
+    "Designed for durability"
+  ],
+  "image": "1692241191857-dbb598f4eca00aae0c52afa812756f93.jpg",
+  "price": 2100,
+  "category": "appliances",
+  "subcategory": "blender",
+  "seller": {
+    "$oid": "64dcf1dcdcb69a046dd422b4"
+  },
+  "brand": "blender",
+  "product_quantity": 46,
+  "review": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64dd8deef3cee27bc24c16c3"
+  },
+  "title": "Miele Vaccume 1",
+  "description": [
+    "Equipped with powerful suction for effective cleaning on various surfaces.",
+    "Designed with versatility in mind, it's suitable for carpets to hardwood floors.",
+    "Advanced filtration systems ensure efficient capture of dust and allergens.",
+    "User-friendly design makes cleaning a hassle-free experience.",
+    "Compact design allows for easy storage even in tight spaces."
+  ],
+  "image": "1692241390812-10931750.jpg",
+  "price": 5400,
+  "category": "appliances",
+  "subcategory": "vacuum cleaner",
+  "seller": {
+    "$oid": "64dcf1dcdcb69a046dd422b4"
+  },
+  "brand": "vacuum cleaner",
+  "product_quantity": 50,
+  "review": [],
+  "__v": 0
+}]

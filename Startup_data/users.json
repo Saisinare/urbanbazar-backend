@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "64da38e00059d2d4e17a476d"
+  },
+  "username": "SaiSinare",
+  "email": "saisinare19@gmail.com",
+  "mobileNo": "8149117998",
+  "password": "$2b$10$L0QDc.jnBVbpkQB.BBM/J.s184.Qriy.NYO4CTlpwgEz75EU0tm..",
+  "isSeller": true,
+  "cart": [
+    {
+      "product": {
+        "$oid": "64db5469cc7ca87b019a781b"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "65a3d4e0640e5b39f8f53de7"
+      }
+    },
+    {
+      "product": {
+        "$oid": "64db520d8600a4368bdcb714"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "65a3d4e7640e5b39f8f53ded"
+      }
+    }
+  ],
+  "__v": 262,
+  "country": "india",
+  "localAddress": "WADAPUR ROAD",
+  "pincode": "422605",
+  "state": "Maharastra",
+  "fullname": "Sai Dipak Sinare",
+  "profilePhoto": "64da38e00059d2d4e17a476d-WhatsApp Image 2023-11-16 at 6.12.51 AM.jpeg"
+},{
+  "_id": {
+    "$oid": "64dcf1dcdcb69a046dd422b4"
+  },
+  "username": "OmSinare",
+  "email": "omsinare88@gmail.com",
+  "mobileNo": "84210647998",
+  "password": "$2b$10$UwpmckLP4P6RcgAjMC9XDuJMAM.5mAPZtVFEXeSkDf/Uj37ZOe3ZW",
+  "isSeller": true,
+  "cart": [],
+  "__v": 0,
+  "country": "",
+  "localAddress": "",
+  "pincode": "",
+  "state": "",
+  "fullname": ""
+},{
+  "_id": {
+    "$oid": "6506e81024464613a6466093"
+  },
+  "username": "SaiBoss",
+  "email": "hello@gmail.com",
+  "mobileNo": "1234569160",
+  "password": "$2b$10$N/lws1Dp1GjFPgHDDMXeOOcZmG.CiOWzMTfKDrVMaR2yl0mY4A0.e",
+  "isSeller": false,
+  "cart": [],
+  "__v": 0,
+  "country": "",
+  "localAddress": "",
+  "pincode": "",
+  "state": "",
+  "fullname": ""
+},{
+  "_id": {
+    "$oid": "651844205a76625318ae3d64"
+  },
+  "username": "Saisinaree",
+  "email": "saisinare21@outlook.com",
+  "mobileNo": "4567891234",
+  "password": "$2b$10$gVDzqD20Cq7E4xJ9sLrPBeEuP8OzcZ30YkEM0oOgt24byIqgEB/1S",
+  "isSeller": false,
+  "cart": [],
+  "__v": 0,
+  "country": "",
+  "localAddress": "",
+  "pincode": "",
+  "state": "",
+  "fullname": ""
+}]
