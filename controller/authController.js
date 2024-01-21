@@ -91,7 +91,8 @@ exports.postSignup = async (req, res) => {
               const userWithoutPass = user.toObject()
               delete userWithoutPass["password"]
               console.log(userWithoutPass)
-              return res.json({
+              
+              return res.cookie("authtoken",authtoken).json({
                 success: true,
                 message: "user login successFully",
                 user:userWithoutPass,

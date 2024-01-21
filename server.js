@@ -30,7 +30,6 @@ app.use(auth);
 app.use(productRoutes);
 
 app.use("/seller", sellerRoutes);
-
 app.use(userRoutes);
 
 app.listen(process.env.PORT, () => {
