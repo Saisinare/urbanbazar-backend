@@ -14,7 +14,7 @@ dotenv.config();
 app.use(cookieParser());
 app.use(
   cors({
-    origin: "https://urbanbazar.vercel.app",
+    origin: "*",
     credentials: true,
   })
 );
