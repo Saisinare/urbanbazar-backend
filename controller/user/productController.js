@@ -210,8 +210,8 @@ exports.getCheckout = async (req, res) => {
       line_items: items,
       mode: "payment",
       payment_method_types: ["card"],
-      success_url: `http://localhost:3000/success`,
-      cancel_url: "http://localhost:3000/fail",
+      success_url: `https://urbanbazar.vercel.app/success`,
+      cancel_url: "https://urbanbazar.vercel.app/fail",
     });
 
     res.json({ url: session.url, session_id: session.id });
